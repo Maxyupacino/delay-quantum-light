@@ -1,0 +1,2 @@
+# delay-quantum-light
+我利用Matlab对已有压缩光和相干光数据做处理，分别错位做差分再计算PSD噪声谱，然后对不同延时情况进行计算，计算signal光和idler光的互关联函数等有效参考量。
